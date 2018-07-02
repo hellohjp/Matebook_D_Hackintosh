@@ -14,4 +14,4 @@ Touchpad (Fully support)
 Battery
 
 
-This EFI files is in working condition on my laptop and is uploaded for storiage purpose only.
+EFI files are in working condition on my laptop and is uploaded for storage purpose only.

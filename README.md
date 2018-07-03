@@ -1,6 +1,6 @@
 # Matebook_D_Hackintosh
 
-# Technical configuritions
+# Technical configurations
 CPU: i5-7200U
 GPU: HD620
 Audio: ALC256
